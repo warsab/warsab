@@ -1,6 +1,6 @@
-#💫 About Me:
+## 💫 About Me:
 
-Hi My name is Warrick Sabatta.
+Hi, My name is Warrick Sabatta.
 
 I am a Junior data scientist with 8+ years experience in implementing reports and analyzing data. Recently gained skills from a Data Science bootcamp enhancing proficiency in python programming, data processing, data visualizations and machine learning. Capable of cleaning up data, debugging, and creating visualizations in order to perform exploratory data analysis and presentation.
 
