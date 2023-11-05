@@ -11,7 +11,9 @@
 
 Hi, My name is Warrick Sabatta.
 
-I am a Junior data scientist with 8+ years experience in implementing reports and analyzing data. Recently gained skills from a Data Science bootcamp enhancing proficiency in python programming, data processing, data visualizations and machine learning. Capable of cleaning up data, debugging, and creating visualizations in order to perform exploratory data analysis and presentation.
+Data Science | Operations | Analytics | AI enthusiast
+
+I am an experienced operations professional with over 8 years of expertise in customer support, sales, operations, and data analytics, including working with large datasets, data querying, cleansing, and in-depth analysis to uncover insights. I have also contributed to the development of predictive models and machine learning algorithms. With a strong background in direct communication with CEOs, senior management, and stakeholders, I possess a genuine passion for problem-solving and implementing data analytics to drive impactful business insights.
 
 
 
