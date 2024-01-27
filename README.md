@@ -11,18 +11,23 @@
 
 Hi, My name is Warrick Sabatta.
 
-Data Science | Operations | Analytics | AI enthusiast
+Data Science | Software Engineer | Operations | Analytics | AI enthusiast
 
-I am an experienced operations professional with over 8 years of expertise in customer support, sales, operations, and data analytics, including working with large datasets, data querying, cleansing, and in-depth analysis to uncover insights. I have also contributed to the development of predictive models and machine learning algorithms. With a strong background in direct communication with CEOs, senior management, and stakeholders, I possess a genuine passion for problem-solving and implementing data analytics to drive impactful business insights.
+With over 8 years of experience in customer support, sales, operations, and data analytics, I am a seasoned operations professional. My expertise encompasses working with large datasets, performing data querying, cleansing, and conducting in-depth analyses to uncover valuable insights. I have actively contributed to the development of predictive models and machine learning algorithms. In addition to my analytical skills, I bring a creative flair and a passion for designing.
 
-
-
-
-✍️ I’m currently working on Supervised Learning projects<br>👯 I’m looking to collaborate on projects with teams in Kaggle<br>🤝 I’m looking for help with growing knowledge ChatGPT<br>🌱 I’m currently Studying Data Science Machine Learning<br>💬 Ask me about: Python, data analytics and visualizations<br>⚡ Fun facts: Recently did a career change <br>👣 My Journey: Aspiring Data Scientist looking for career growth
+Directly engaging with CEOs, senior management, and stakeholders has been a regular part of my professional journey. I thrive on problem-solving and implementing data analytics to drive impactful business insights. My creative mindset, coupled with a genuine enthusiasm for innovative solutions, adds a unique dimension to my approach.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Fury_Projects) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/warrick-sabatta-b70a2a93/) 
+
+
+✍️ I’m currently working on growing my skills with machine learning<br>👯 I am social and love networking with people<br>🤝 I’m currently doing a SE bootcamp to upskill<br>🌱 I’m currently learning about AI <br>💬 Ask me about: anything, very talkative...<br>⚡ Fun facts: I have a high attention to detail, and love being challanged <br>👣 My Journey: Aspiring Data Scientist | Software Engineer | Ai Enthusiast
+
+
+## 🌐 Following:
+[![Data Science Dojo](https://www.linkedin.com/school/data-science-dojo/)
+[![Python Developers]([https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/25827/)) 
+[![AI]([https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/4376214/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A4376214-7157060688467619840&q=highlightedFeedForGroups)) 
+[![David Langer]([https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/in/davelanger/)) 
 
 # 💻 Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
