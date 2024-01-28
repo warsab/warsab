@@ -1,4 +1,4 @@
-![WARRICK SABATTA]([https://user-images.githubusercontent.com/109732696/226160669-e9a0f81c-4293-43b6-8672-80b7b37ac2c4.png](https://github.com/warsab/warsab/blob/main/github%20about%20me.png))
+![WARRICK SABATTA](https://user-images.githubusercontent.com/109732696/226160669-e9a0f81c-4293-43b6-8672-80b7b37ac2c4.png](https://github.com/warsab/warsab/blob/main/github%20about%20me.png))
 
 
 
