@@ -18,10 +18,10 @@ As a junior software engineer, I actively engage in projects and collaborate wit
 
 
 ## 🌐 Following:
-[![Data Science Dojo](https://www.linkedin.com/school/data-science-dojo/)
-[![Python Developers]([https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/25827/)) 
-[![AI]([https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/4376214/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A4376214-7157060688467619840&q=highlightedFeedForGroups)) 
-[![David Langer]([https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/in/davelanger/)) 
+![Data Science Dojo](https://www.linkedin.com/school/data-science-dojo/)
+![Python Developers](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/25827/))
+![AI](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/4376214/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A4376214-7157060688467619840&q=highlightedFeedForGroups))
+![David Langer](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/in/davelanger/)) 
 
 # 💻 Tech Stack:
 ## Programming Languages:
@@ -30,7 +30,7 @@ As a junior software engineer, I actively engage in projects and collaborate wit
 ## AI/ML/DL:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## cloud Storage:
+## Cloud Storage:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 
 ## Databases:
@@ -60,7 +60,7 @@ As a junior software engineer, I actively engage in projects and collaborate wit
 
 
 # 🧑‍🎓 Education:
-![University of Edinburgh](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+![University of Edinburgh](https://www.facebook.com/photo/?fbid=704196408402432&set=a.585989616889779)
 ![HyperionDev](https://www.facebook.com/photo/?fbid=554203590039826&set=a.554203576706494)
 ![Edgemead High](https://www.facebook.com/photo/?fbid=1048519305963191&set=a.1048519275963194)
  ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
