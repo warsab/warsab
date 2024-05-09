@@ -3,18 +3,19 @@
 
 
 
-
 ## 💫 About Me:
 
-Hi, My name is Warrick Sabatta.
+Data Science | Data Analytics | AI engineering | Software Engineering
 
-Data Science | Software Engineer | Operations | Analytics | AI enthusiast
+Greetings! I'm Warrick Sabatta, a professional deeply immersed in the realms of Data Science, Data Analytics, AI Engineering, and Software Engineering. Within the financial sector, I navigate through vast datasets, leveraging my expertise to uncover meaningful insights.
 
-With more than 8 years of professional experience spanning customer support, sales, operations, and data analytics, I am a seasoned operations specialist. My skill set includes proficiency in handling large datasets, executing data queries, performing data cleansing, and conducting thorough analyses to reveal valuable insights. Additionally, I am a data scientist with a keen interest in working with machine learning and predictive models. My creative inclination extends to graphic design, reflecting my imaginative mindset.
+My toolkit encompasses a broad spectrum, from adeptly handling large datasets and executing complex data queries to crafting machine learning predictive models and exploring the realms of generative AI and AI prompting. In the realm of development, I specialize in data cleansing and conducting comprehensive analyses across diverse datasets spanning financial, budgetary, customer survey, geographical, and NLP domains. My creative flair extends beyond data into graphic design, showcasing my imaginative spirit.
 
-As a junior software engineer, I actively engage in projects and collaborate with teams. Throughout my professional journey, I have had direct interactions with CEOs, senior management, and stakeholders. I excel in problem-solving and implementing data analytics to derive impactful business insights. The fusion of my creative mindset and genuine enthusiasm for innovative solutions brings a distinctive dimension to my approach
+Throughout my career journey, I've engaged directly with top-level executives, senior management, and stakeholders, utilizing my problem-solving prowess to implement data-driven strategies for impactful business outcomes. The fusion of my creative mindset and passion for innovative solutions adds a unique dimension to my work.
 
-✍️ I’m currently working on growing my skills with machine learning<br>👯 I am social and love networking with people<br>🤝 I’m currently doing a SE bootcamp to upskill<br>🌱 I’m currently learning about AI <br>💬 Ask me about: anything, very talkative...<br>⚡ Fun facts: I have a high attention to detail, and love being challanged <br>👣 My Journey: Aspiring Data Scientist | Software Engineer | Ai Enthusiast
+I find great fulfillment in mentoring and guiding newcomers to the field, relishing collaborative teamwork experiences.
+
+✍️ I’m currently working on growing my skills with machine learning<br>👯 I am social and love networking with people<br>🤝 I’m currently upskilling in generative AI<br>🌱 I’m currently exploring DataBricks and SQL querying <br>💬 Ask me about: anything, very talkative...<br>⚡ Fun facts: I have a high attention to detail, and love to say "Challange accepted!"  <br>👣 My Journey:  Data Analytics and operations to Data Scientist and growing in software engineering and AI Engineering!
 
 
 ## 🌐 Following:
@@ -34,6 +35,7 @@ As a junior software engineer, I actively engage in projects and collaborate wit
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 
 ## Databases:
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Databricks](https://a11ybadges.com/badge?logo=databricks)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
