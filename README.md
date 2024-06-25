@@ -71,7 +71,8 @@ I find great fulfillment in mentoring and guiding newcomers to the field, relish
 > DataScience, Machine Learning, AI Prompt, RDMS, Software Engineering, Graphic Design, Digital Marketing, Coding mentoring, Coding Reviewer, Lecturer, Content Creator, Agile Enviroment, Project Management, MBA, Wordpress Developer, Life Coach, Operations, Retail, Customer service, Sales, Public Speaking, Edtech support
 
 # 👨🏻‍🎓Certificates:
-<img src="https://github.com/warsab/warsab/blob/main/UOE.png" alt="WARRICK SABATTA" width="500" height="300"/> <img src="https://github.com/warsab/warsab/blob/main/DatabricksLakehouse.PNG" alt="WARRICK SABATTA" width="500" height="300"/> 
+<img src="https://github.com/warsab/warsab/blob/main/UOE.png" alt="WARRICK SABATTA" width="500" height="300"/> <img src="https://github.com/warsab/warsab/blob/main/Generative AI-1.png" alt="WARRICK SABATTA" width="500" height="300"/> 
+<img src="https://github.com/warsab/warsab/blob/main/DatabricksLakehouse.PNG" alt="WARRICK SABATTA" width="500" height="300"/> 
 <img src="https://github.com/warsab/warsab/blob/main/PowerBI.PNG" alt="WARRICK SABATTA" width="500" height="300"/> <img src="https://github.com/warsab/warsab/blob/main/DigitalMarketing.png" alt="WARRICK SABATTA" width="500" height="300"/>
 
 <img src="https://github.com/warsab/warsab/blob/main/AzureMLmodule.PNG" alt="WARRICK SABATTA" width="200" height="150"/> <img src="https://github.com/warsab/warsab/blob/main/AZUREDBModule.PNG" alt="WARRICK SABATTA" width="200" height="150"/> 
