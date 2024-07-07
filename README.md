@@ -72,7 +72,8 @@ I find great fulfillment in mentoring and guiding newcomers to the field, relish
 
 # 👨🏻‍🎓Certificates:
 <img src="https://github.com/warsab/warsab/blob/main/UOE.png" alt="WARRICK SABATTA" width="500" height="300"/> <img src="https://github.com/warsab/warsab/blob/main/Generative AI-1.png" alt="WARRICK SABATTA" width="500" height="300"/> 
-<img src="https://github.com/warsab/warsab/blob/main/DatabricksLakehouse.PNG" alt="WARRICK SABATTA" width="500" height="300"/> 
+<img src="https://github.com/warsab/warsab/blob/main/DatabricksLakehouse.PNG" alt="WARRICK SABATTA" width="500" height="300"/>
+<img src="https://github.com/warsab/warsab/blob/main/aigovern" alt="WARRICK SABATTA" width="500" height="300"/>
 <img src="https://github.com/warsab/warsab/blob/main/PowerBI.PNG" alt="WARRICK SABATTA" width="500" height="300"/> <img src="https://github.com/warsab/warsab/blob/main/DigitalMarketing.png" alt="WARRICK SABATTA" width="500" height="300"/>
 
 <img src="https://github.com/warsab/warsab/blob/main/AzureMLmodule.PNG" alt="WARRICK SABATTA" width="200" height="150"/> <img src="https://github.com/warsab/warsab/blob/main/AZUREDBModule.PNG" alt="WARRICK SABATTA" width="200" height="150"/> 
