@@ -76,7 +76,9 @@ I find great fulfillment in mentoring and guiding newcomers to the field, relish
 <img src="https://github.com/warsab/warsab/blob/main/aigovern" alt="WARRICK SABATTA" width="500" height="300"/>
 <img src="https://github.com/warsab/warsab/blob/main/PowerBI.PNG" alt="WARRICK SABATTA" width="500" height="300"/> <img src="https://github.com/warsab/warsab/blob/main/DigitalMarketing.png" alt="WARRICK SABATTA" width="500" height="300"/>
 
-<img src="https://github.com/warsab/warsab/blob/main/AzureMLmodule.PNG" alt="WARRICK SABATTA" width="200" height="150"/> <img src="https://github.com/warsab/warsab/blob/main/AZUREDBModule.PNG" alt="WARRICK SABATTA" width="200" height="150"/> 
+<img src="https://github.com/warsab/warsab/blob/main/AzureMLmodule.PNG" alt="WARRICK SABATTA" width="200" height="150"/> <img src="https://github.com/warsab/warsab/blob/main/AZUREDBModule.PNG" alt="WARRICK SABATTA" width="200" height="150"/> <img src="https://github.com/warsab/warsab/blob/main/responsibleai.PNG" alt="WARRICK SABATTA" width="200" height="150"/> 
+
+
 
 <img src="https://github.com/warsab/warsab/blob/main/NetworkingFundamentals.png" alt="WARRICK SABATTA" width="500" height="300"/> <img src="https://github.com/warsab/warsab/blob/main/gsuite.png" alt="WARRICK SABATTA" width="500" height="300"/>
 <img src="https://github.com/warsab/warsab/blob/main/wordpress.png" alt="WARRICK SABATTA" width="500" height="300"/> <img src="https://github.com/warsab/warsab/blob/main/projectm.png" alt="WARRICK SABATTA" width="500" height="300"/>
