@@ -2,7 +2,6 @@
 
 
 
-
 ## 🦅 Freedomwings:
 
 Welcome to Freedomwings, where I bring AI engineering, data science, and analytics together to help businesses harness the power of artificial intelligence. As a freelance AI Engineer and Data Scientist with 8 years of experience in operations, I understand how businesses work and how AI can optimize processes, drive efficiency, and unlock new opportunities.
