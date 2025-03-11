@@ -1,4 +1,4 @@
-![WARRICK SABATTA](https://github.com/warsab/warsab/blob/main/github%20about%20me.png)
+
 
 
 
