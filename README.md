@@ -25,10 +25,11 @@ I help companies integrate AI into their systems, whether through automation, in
 ## 🌐 Following:
 [![AI Mastery](https://aimastery.co.za/image.png)](https://aimastery.co.za)
 ![Datalumina](https://github.com/daveebbelaar)
-![Data Science Dojo](https://www.linkedin.com/school/data-science-dojo/)
-![Python Developers](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/25827/))
-![AI](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/4376214/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A4376214-7157060688467619840&q=highlightedFeedForGroups))
-![David Langer](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/in/davelanger/)) 
+[![Data Science Dojo](https://www.linkedin.com/school/data-science-dojo/logo.png)](https://www.linkedin.com/school/data-science-dojo/)  
+[![Python Developers](https://www.linkedin.com/school/data-science-dojo/logo.png)](https://www.linkedin.com/groups/25827/)  
+[![AI](https://www.linkedin.com/school/data-science-dojo/logo.png)](https://www.linkedin.com/groups/4376214/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A4376214-7157060688467619840&q=highlightedFeedForGroups)  
+[![David Langer](https://www.linkedin.com/school/data-science-dojo/logo.png)](https://www.linkedin.com/in/davelanger/)  
+
 
 # 💻 Tech Stack:
 ## Programming Languages:
