@@ -3,22 +3,28 @@
 
 
 
-## 💫 About Me:
+## 🦅 Freedomwings:
 
-Data Science | Data Analytics | AI engineering | Software Engineering
+Welcome to Freedomwings, where I bring AI engineering, data science, and analytics together to help businesses harness the power of artificial intelligence. As a freelance AI Engineer and Data Scientist with 8 years of experience in operations, I understand how businesses work and how AI can optimize processes, drive efficiency, and unlock new opportunities.
 
-Greetings! I'm Warrick Sabatta, a professional deeply immersed in the realms of Data Science, Data Analytics, AI Engineering, and Software Engineering. Within the financial sector, I navigate through vast datasets, leveraging my expertise to uncover meaningful insights.
+I specialize in:
+✅ Building AI agents & assistants for automation and enhanced workflows
+✅ Developing AI-driven chatbots and content generation tools
+✅ Designing & deploying machine learning models tailored for business needs
+✅ Automating processes with AI to boost productivity
+✅ Creating data visualizations & analytics solutions for actionable insights
+✅ Consulting on AI strategy & recommending the best AI tools/software
 
-My toolkit encompasses a broad spectrum, from adeptly handling large datasets and executing complex data queries to crafting machine learning predictive models and exploring the realms of generative AI and AI prompting. In the realm of development, I specialize in data cleansing and conducting comprehensive analyses across diverse datasets spanning financial, budgetary, customer survey, geographical, and NLP domains. My creative flair extends beyond data into graphic design, showcasing my imaginative spirit.
+I help companies integrate AI into their systems, whether through automation, intelligent decision-making, or custom AI solutions. Let’s build the future with AI!
 
-Throughout my career journey, I've engaged directly with top-level executives, senior management, and stakeholders, utilizing my problem-solving prowess to implement data-driven strategies for impactful business outcomes. The fusion of my creative mindset and passion for innovative solutions adds a unique dimension to my work.
+🚀 Let’s connect and create AI solutions that make an impact!
 
-I find great fulfillment in mentoring and guiding newcomers to the field, relishing collaborative teamwork experiences.
-
-✍️ I’m currently working on growing my skills with machine learning<br>👯 I am social and love networking with people<br>🤝 I’m currently upskilling in generative AI<br>🌱 I’m currently exploring DataBricks and SQL querying <br>💬 Ask me about: anything, very talkative...<br>⚡ Fun facts: I have a high attention to detail, and love to say "Challange accepted!"  <br>👣 My Journey:  Data Analytics and operations to Data Scientist and growing in software engineering and AI Engineering!
+✍️ I’m currently working on AI content creation and automation for iGaming industry<br>👯 I am social and love networking with people<br>🤝 I am always following ai trends and events<br>🌱 I’m growing my skillsets with AI agent and RAG development <br>💬 Ask me about: anything, very talkative...<br>⚡ Fun facts: I have a high attention to detail, and love to say "Challange accepted!"  <br>👣 My Journey:  Data Analytics and operations to Data Scientist to AI Engineering!
 
 
 ## 🌐 Following:
+![AI Mastery](https://aimastery.co.za/)
+![Datalumina](https://github.com/daveebbelaar)
 ![Data Science Dojo](https://www.linkedin.com/school/data-science-dojo/)
 ![Python Developers](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/25827/))
 ![AI](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/4376214/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A4376214-7157060688467619840&q=highlightedFeedForGroups))
@@ -26,10 +32,10 @@ I find great fulfillment in mentoring and guiding newcomers to the field, relish
 
 # 💻 Tech Stack:
 ## Programming Languages:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## AI/ML/DL:
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Openai](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Cloud Storage:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
