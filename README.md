@@ -23,7 +23,7 @@ I help companies integrate AI into their systems, whether through automation, in
 
 
 ## 🌐 Following:
-![AI Mastery](https://aimastery.co.za)
+[![AI Mastery](https://aimastery.co.za/image.png)](https://aimastery.co.za)
 ![Datalumina](https://github.com/daveebbelaar)
 ![Data Science Dojo](https://www.linkedin.com/school/data-science-dojo/)
 ![Python Developers](https://www.linkedin.com/school/data-science-dojo/](https://www.linkedin.com/groups/25827/))
