@@ -98,7 +98,7 @@ I help companies integrate AI into their systems, whether through automation, in
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=warsab&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=warsab&theme=merko&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=warsab&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=warsab&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ## 🏆 GitHub Trophies
@@ -108,6 +108,6 @@ I help companies integrate AI into their systems, whether through automation, in
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=warsab&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=warsab&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/warsab)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
