@@ -327,7 +327,7 @@ Away from the technical side I am humble, social and a genuine networker. I enjo
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=warsab&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<img src="https://github-trophies.devomb.com/?username=warsab&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6&rank=-%3F" alt="Trophies" />
 
 </div>
 
