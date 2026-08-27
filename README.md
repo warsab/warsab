@@ -70,14 +70,14 @@ Away from the technical side I am humble, social and a genuine networker. I enjo
 
 <div align="center">
 
-[![ai-rag-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=warsab&repo=ai-rag-chatbot&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/ai-rag-chatbot)
-[![ai-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=warsab&repo=ai-chatbot&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/ai-chatbot)
+[![ai-rag-chatbot](https://warsab-stats.vercel.app/api/pin/?username=warsab&repo=ai-rag-chatbot&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/ai-rag-chatbot)
+[![ai-chatbot](https://warsab-stats.vercel.app/api/pin/?username=warsab&repo=ai-chatbot&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/ai-chatbot)
 
-[![ai-skills](https://github-readme-stats.vercel.app/api/pin/?username=warsab&repo=ai-skills&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/ai-skills)
-[![ml-algorithms](https://github-readme-stats.vercel.app/api/pin/?username=warsab&repo=ml-algorithms&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/ml-algorithms)
+[![ai-skills](https://warsab-stats.vercel.app/api/pin/?username=warsab&repo=ai-skills&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/ai-skills)
+[![ml-algorithms](https://warsab-stats.vercel.app/api/pin/?username=warsab&repo=ml-algorithms&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/ml-algorithms)
 
-[![eda-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=warsab&repo=eda-toolkit&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/eda-toolkit)
-[![cheatsheets](https://github-readme-stats.vercel.app/api/pin/?username=warsab&repo=cheatsheets&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/cheatsheets)
+[![eda-toolkit](https://warsab-stats.vercel.app/api/pin/?username=warsab&repo=eda-toolkit&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/eda-toolkit)
+[![cheatsheets](https://warsab-stats.vercel.app/api/pin/?username=warsab&repo=cheatsheets&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D)](https://github.com/warsab/cheatsheets)
 
 </div>
 
@@ -320,10 +320,10 @@ Away from the technical side I am humble, social and a genuine networker. I enjo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=warsab&show_icons=true&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D" alt="GitHub stats" />
+<img height="165" src="https://warsab-stats.vercel.app/api?username=warsab&show_icons=true&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=warsab&background=0D1117&stroke=30363D&border=30363D&ring=3FB950&fire=7EE787&currStreakLabel=3FB950&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="GitHub streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warsab&layout=compact&langs_count=8&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&border_color=30363D" alt="Top languages" />
+<img height="165" src="https://warsab-stats.vercel.app/api/top-langs/?username=warsab&layout=compact&langs_count=8&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&border_color=30363D" alt="Top languages" />
 
 ### 🏆 Trophies
 
