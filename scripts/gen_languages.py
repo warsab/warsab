@@ -63,7 +63,10 @@ def graphql(query, **variables):
         cmd += ["-F", f"{key}={value}"]
     out = subprocess.run(cmd, capture_output=True, text=True)
     if out.returncode:
-        sys.exit(f"gh failed: {out.stderr.strip()[:300]}")
+        err = out.stderr.strip()
+        if "authentication" in err.lower() or "gh auth login" in err:
+            sys.exit("gh is not authenticated. Set GH_TOKEN, or run gh auth login.")
+        sys.exit(f"gh failed: {err[:300]}")
     # --paginate concatenates one JSON document per page.
     decoder, pos, pages = json.JSONDecoder(), 0, []
     text = out.stdout.strip()
@@ -169,9 +172,19 @@ def main():
     parser.add_argument("--out", default="languages.svg")
     parser.add_argument("--top", type=int, default=6)
     parser.add_argument("--include-archived", action="store_true")
+    parser.add_argument(
+        "--min-repos", type=int, default=0,
+        help="Refuse to write the card if fewer repositories than this were "
+             "visible. Guards against a token that has lost private access "
+             "quietly replacing the card with a public-only one.")
     args = parser.parse_args()
 
     repos = collect(args.include_archived)
+    if len(repos) < args.min_repos:
+        sys.exit(
+            f"Only {len(repos)} repositories visible, expected at least "
+            f"{args.min_repos}. The token has probably lost access to private "
+            f"repositories. Leaving the existing card untouched.")
     ranked = normalise(repos)
     with open(args.out, "w", encoding="utf-8") as fh:
         fh.write(render(ranked, len(repos), args.top))

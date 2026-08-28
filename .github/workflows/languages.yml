@@ -1,0 +1,60 @@
+# Regenerates languages.svg, the Most Used Languages card.
+#
+# Off-the-shelf cards rank by raw byte count, which lets notebook repositories
+# bury everything else. gen_languages.py counts each repository once instead,
+# split by its internal language mix, across personal and organisation repos
+# including private ones.
+#
+# LANGUAGES_TOKEN is a classic PAT with the `repo` scope. Private repositories
+# are the whole point here: without them the card cannot see the TypeScript,
+# React and Python that most of the work is actually written in. The job fails
+# rather than degrading if the token is missing or has lost access, so a broken
+# token can never quietly replace the card with a public-only one.
+
+name: Update languages card
+
+on:
+  schedule:
+    - cron: "0 4 * * 1" # weekly, Monday 04:00 UTC. Language mix moves slowly.
+  push:
+    paths:
+      - ".github/workflows/languages.yml"
+      - "scripts/gen_languages.py"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check the token is present
+        env:
+          TOKEN: ${{ secrets.LANGUAGES_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::LANGUAGES_TOKEN is not set. Add a classic PAT with the repo scope under Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
+      - name: Generate languages card
+        env:
+          GH_TOKEN: ${{ secrets.LANGUAGES_TOKEN }}
+        # 40 is comfortably below the 48 repositories currently visible, so a
+        # new repo will not trip it but a token losing private access will.
+        run: python scripts/gen_languages.py --out languages.svg --min-repos 40
+
+      - name: Commit languages card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+          git commit -m "Update languages card" || exit 0
+          git push
