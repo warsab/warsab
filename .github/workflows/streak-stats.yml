@@ -1,0 +1,46 @@
+# Renders the streak card to a static SVG committed in this repo.
+#
+# The public streak-stats.demolab.com endpoint takes 25s or more on a cold
+# request, and GitHub's image proxy gives up long before that and serves a 504,
+# so the card showed as broken. A committed SVG is served straight from
+# raw.githubusercontent.com, which GitHub does not proxy, so it cannot time out.
+#
+# STREAK_STATS_TOKEN is a personal access token that needs no scopes: the
+# profile publishes private contributions, so an unscoped token can read them.
+# Without the secret this falls back to GITHUB_TOKEN and counts public work only.
+
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily, 03:00 UTC
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch: # run on demand from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          # Themed to match the other cards: GitHub dark, green accents.
+          options: >-
+            user=${{ github.repository_owner }}&background=0D1117&stroke=30363D&border=30363D&ring=3FB950&fire=7EE787&currStreakLabel=3FB950&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9&disable_animations=true
+          path: streak.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
