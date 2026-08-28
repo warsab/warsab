@@ -321,9 +321,11 @@ Away from the technical side I am humble, social and a genuine networker. I enjo
 <div align="center">
 
 <img height="165" src="https://warsab-stats.vercel.app/api?username=warsab&show_icons=true&count_private=true&hide=stars,prs,issues&bg_color=0D1117&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&border_color=30363D&v=2" alt="GitHub stats" />
-<img height="165" src="https://raw.githubusercontent.com/warsab/warsab/main/streak.svg" alt="GitHub streak" />
+<img height="165" src="https://raw.githubusercontent.com/warsab/warsab/main/languages.svg" alt="Most used languages, weighted per repository" />
 
-<img height="185" src="https://raw.githubusercontent.com/warsab/warsab/main/languages.svg" alt="Most used languages, weighted per repository" />
+<br/>
+
+<img height="165" src="https://raw.githubusercontent.com/warsab/warsab/main/streak.svg" alt="GitHub streak" />
 
 ### 🏆 Trophies
 
